@@ -1,3 +1,3 @@
-# Default
+# Public
 
-Default theme for [Lavalite](http://lavalite.org/) cms.
+Public theme for [Lavalite](http://lavalite.org/) cms.
