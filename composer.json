@@ -1,6 +1,6 @@
 {
-  "name": "litefront/default",
-  "description": "Deafalut theme for lavalite cms.",
+  "name": "litefront/public",
+  "description": "Public theme for lavalite cms.",
   "keywords": [
     "Lavalite",
     "Public",
