@@ -71,7 +71,6 @@ return [
         // Listen on event before render a layout,
         // this should call to assign style, script for a layout.
         'beforeRenderLayout' => [
-
             'default' => function ($theme) {
                 $theme->asset()->usePath()->add('layout', 'css/public.css');
             },
@@ -79,19 +78,6 @@ return [
             'home' => function ($theme) {
                 $theme->asset()->usePath()->add('layout', 'css/public.css');
             },
-
-            'app' => function ($theme) {
-                $theme->asset()->usePath()->add('layout', 'css/app.css');
-            },
-
-            'user' => function ($theme) {
-                $theme->asset()->usePath()->add('layout', 'css/app.css');
-            },
-
-            'auth' => function ($theme) {
-                $theme->asset()->usePath()->add('layout', 'css/app.css');
-            },
-
         ],
 
     ],
