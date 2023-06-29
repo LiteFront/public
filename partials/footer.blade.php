@@ -55,13 +55,14 @@
                     <div class="copyright-area">
                         <div class="row align-items-center">
                             <div class="col-sm-6  text-sm-left text-center mb-2 mb-sm-0">
-                                <p class="copyright-text">© 2020 Lavalite, All Rights Reserved</p>
+                                <p class="copyright-text">&copy; {{date('Y')}} Lavalite, All Rights Reserved</p>
                             </div>
                             <div class="col-sm-6 text-sm-right text-center">
                                 <ul class="social-icons">
-                                    <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-google"></i></a></li>
+                                    <li><a href="https://www.facebook.com/lavalite" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                                    <li><a href="https://twitter.com/lavalitecms" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="https://github.com/lavalite" target="_blank"><i class="fab fa-github"></i></a></li>
+                                    <li><a href="https://discord.gg/SZbFnXtv" target="_blank"><i class="fab fa-discord"></i></a></li>
                                 </ul>
                             </div>
                         </div>
